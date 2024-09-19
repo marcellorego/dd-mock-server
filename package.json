@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "apm": "json-server --routes routes.json --watch db.json --port 8126 --static ./",
+    "clean": "cp db.bkp db.json",
+    "help": "json-server --help"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
