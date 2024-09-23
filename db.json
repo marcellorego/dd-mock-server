@@ -1,6 +1,11 @@
 {
-  "info": [],
-  "apmtelemetry": [],
-  "v3traces": [],
-  "v4traces": []
+  "info": {
+    "endpoints": [
+      "/evp_proxy/v2"
+    ]
+  },
+  "apmtelemetry": {},
+  "v3traces": {},
+  "v4traces": {},
+  "v5traces": {}
 }

@@ -1,5 +1,7 @@
 {
+ "/info": "/info",
  "/telemetry/proxy/api/v2/*": "/$1",
  "/v0.3/traces": "/v3traces",
- "/v0.4/traces": "/v4traces"
+ "/v0.4/traces": "/v4traces",
+ "/v0.5/traces": "/v5traces"
 }
